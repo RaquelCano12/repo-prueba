@@ -1,4 +1,1 @@
-Este es el contenido del archivo dos.
-Creado en el repositorio de GitHub -modificacion 2
-Modificacion
-
+Elimiacion de contenido
