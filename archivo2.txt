@@ -1,3 +1,3 @@
 Este es el contenido del archivo dos.
-Creado en el repositorio de GitHub
-Modificando archivo2 en github
+Creado en el repositorio de GitHub -modificacion 2
+Modificando archivo2 en github - modificacion 2
